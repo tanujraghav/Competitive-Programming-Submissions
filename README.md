@@ -6,3 +6,5 @@
 |--:|:-:|:-:|
 |**0**|Jan. 02, &nbsp; 16:34|[Coin Piles (11 of 300)](https://cses.fi/problemset/task/1754/)|
 |**1**|Jan. 02, &nbsp; 16:34|[Coin Piles (11 of 300)](https://cses.fi/problemset/task/1754/)|
+|**2**|Jan. 02, &nbsp; 16:34|[Coin Piles (11 of 300)](https://cses.fi/problemset/task/1754/)|
+|**3**|Jan. 02, &nbsp; 16:34|[Coin Piles (11 of 300)](https://cses.fi/problemset/task/1754/)|
